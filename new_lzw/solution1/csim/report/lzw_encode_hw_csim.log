@@ -1,0 +1,10 @@
+INFO: [SIM 2] *************** CSIM start ***************
+INFO: [SIM 4] CSIM will launch GCC as the compiler.
+   Compiling ../../../../Server/lzw_testbench.cpp in debug mode
+   Compiling ../../../../Server/lzw_hw.cpp in debug mode
+   Generating csim.exe
+TEST PASSED
+Total latency of lzw_encode (software) is: 0.015957 ms.
+Total latency of lzw_encode_hw (hardware) is: 0.005487 ms.
+INFO: [SIM 1] CSim done with 0 errors.
+INFO: [SIM 3] *************** CSIM finish ***************
