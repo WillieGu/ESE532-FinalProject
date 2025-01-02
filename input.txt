@@ -1,0 +1,2 @@
+This is a test for the encoder and decoder.
+This file will be compressed and then decompressed.
